@@ -10,26 +10,26 @@ function App() {
           <a
             className="App-link"
             href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
           >
             Learn React
           </a>
           <a
             className="App-link"
-            href="https://firebase.google.com/"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="https://firebase.google.com/docs/storage/web/upload-files"
           >
             Learn Firebase
           </a>
           <a
             className="App-link"
             href="https://duranirving.com/"
-            target="_blank"
-            rel="noopener noreferrer"
           >
             Irving Duran
+          </a>
+          <a
+            className="App-link"
+            href="https://github.com/fixmylifedesigns/firebase_uploader"
+          >
+           Github Repo
           </a>
         </div>
 
